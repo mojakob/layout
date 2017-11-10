@@ -1,0 +1,229 @@
+header {
+    background-image: url("headervoetbal.jpg");
+    width: 100%;
+    height: 260px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+
+body {
+    background-image: url("70391085-grass-wallpapers.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+}
+
+.titleright-oh {
+    float: left;
+    display: inline-block;
+    width: 100%;
+    color: lightblue;
+    font-family: verdana;
+}
+
+.title1 {
+    float: left;
+    display: inline-block;
+    width: 100%;
+    color: lightblue;
+    font-family: verdana;
+    margin-left: 15px;
+}
+
+.title2 {
+    float: left;
+    display: inline-block;
+    width: 100%;
+    color: lightblue;
+    font-family: verdana;
+    margin-left: 15px;
+}
+
+.title3 {
+    float: left;
+    display: inline-block;
+    width: 100%;
+    color: lightblue;
+    font-family: verdana;
+}
+
+.title4 {
+    float: left;
+    display: inline-block;
+    width: 100%;
+    color: lightblue;
+    font-family: verdana;
+    margin-left: 15px;
+}
+
+.title5 {
+    float: left;
+    display: inline-block;
+    width: 100%;
+    color: lightblue;
+    font-family: verdana;
+    margin-left: 15px;
+}
+
+a {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+a {
+    font-size: 20px;
+}
+
+a {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.navigatie {
+    margin-top: 150px;
+    margin-left: 0;
+    float: left;
+}
+
+.ar1 {
+    padding-left: 0px;
+}
+
+.ar2 {
+    padding-left: 0px;
+}
+
+.ar3 {
+    padding-left: 0px;
+}
+
+.ar4 {
+    padding-left: 0px;
+}
+
+article {
+    width: 49%;
+}
+
+.p1 {
+    color: pink;
+    font-size: 14px;
+    font-family: verdana;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.p2 {
+    color: pink;
+    font-size: 14px;
+    font-family: verdana;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.p3 {
+    color: pink;
+    font-size: 14px;
+    font-family: verdana;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 10px;
+}
+
+.p4 {
+    color: pink;
+    font-size: 14px;
+    font-family: verdana;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0px;
+}
+
+section {
+    display: flex;
+}
+
+article {
+    margin-right: 50px;
+}
+
+img {
+    float: right;
+}
+
+.content {
+    display: flex;
+}
+
+.link {
+    font-size: 14px;
+    color: white;
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.title5 {
+    float: left;
+    display: inline-block;
+    width: 100%;
+    color: lightblue;
+    font-family: verdana;
+    margin-left: 15px;
+}
+
+p {
+    color: pink;
+    font-size: 14px;
+    font-family: verdana;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 15px;
+}
+
+.para2 {
+    color: pink;
+    font-size: 14px;
+    font-family: verdana;
+    width: 50%;
+}
+
+h1 {
+    margin-left: 15px;
+    color: lightblue;
+}
+
+main {
+    display: flex;
+}
+
+.naast {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+aside {
+    width: 20%;
+}
+
+aside img {
+    width: 100%;
+}
